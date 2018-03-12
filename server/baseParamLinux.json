@@ -1,0 +1,7 @@
+{
+    "hdfs_url_prefix": 			"10.152.8.152:9000/",
+    "etcd_server_ip": 			"http://10.152.8.156:2379",
+	"etcd_server_dir_prefix": 	"/etcdTest/",
+    "master_storage_type": 		"glusterfs",
+	"master_mount_dir_prefix": 	"/mnt/"
+}
